@@ -1,0 +1,3 @@
+This is a directory where I will keep all my challenges(projects) to become a great python developer
+It will include some challenges from the website freecodecamp.org
+And many others. 
